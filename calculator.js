@@ -16,4 +16,4 @@ var Calculator = class {
         return x + y;
     }
 }
-export default Calculator;
+module.exports = Calculator;
